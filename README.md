@@ -5,7 +5,7 @@
  **samratkarki2019@gmail.com**
 <p align="left">
 <a href="https://twitter.com/samratkarki01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samratkarki01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samrat-karki-34b892197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-karki-34b892197/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samrat-karki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-karki-34b892197/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samrat014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samrat014" height="30" width="40" /></a>
 </p>
 
