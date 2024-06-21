@@ -76,3 +76,8 @@
   
   
 <h1 align="center">Talk is cheap, Show me your code.</h1> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samrat014&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=samrat014&icon=0&color=0)](https://visitcount.itsvg.in)
